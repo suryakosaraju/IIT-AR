@@ -1,0 +1,958 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled map</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>IIT Delhi</name>
+			<Placemark>
+				<name>Indian Institute of Technology Delhi</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.19309769999995,28.5433502,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>State Bank of India</name>
+				<description><![CDATA[CDM & ATM]]></description>
+				<styleUrl>#icon-1756-0288D1</styleUrl>
+				<Point>
+					<coordinates>77.1927899,28.543791,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>State Bank of India</name>
+				<description><![CDATA[Bank]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>77.1931976,28.5439088,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cafeteria</name>
+				<description><![CDATA[Wanna refill? Come here...]]></description>
+				<styleUrl>#icon-1577-0288D1</styleUrl>
+				<Point>
+					<coordinates>77.1911484,28.5435319,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dogra Hall</name>
+				<styleUrl>#icon-1637-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1920604,28.5448419,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Amul Cafe</name>
+				<description><![CDATA[Tasty food...friendly people.]]></description>
+				<styleUrl>#icon-1577-0288D1</styleUrl>
+				<Point>
+					<coordinates>77.1914542,28.544889,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Central Library</name>
+				<description><![CDATA[Need to read up on something? You are looking at the right place.]]></description>
+				<styleUrl>#icon-1526-0288D1</styleUrl>
+				<Point>
+					<coordinates>77.1914434,28.5446157,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Administration Block</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1922588,28.5454356,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mechanical Engineering Block</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1929777,28.545921,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Applied Mechanical Engineering</name>
+				<description><![CDATA[Branch of Applied Mechanical Engineering]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>77.1921194,28.5465336,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Centre for Energy Studies</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1915668,28.5467174,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Civil Engineering Department</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1913201,28.5462179,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Computer Science and Engineering Department</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1901667,28.545398,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mathematics Department</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.188729,28.5475326,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Uddagiri Hostel</name>
+				<styleUrl>#icon-1602-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1892279,28.5477588,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Satpura Hostel</name>
+				<styleUrl>#icon-1602-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1878171,28.5484373,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vindhyachal Hostel</name>
+				<styleUrl>#icon-1602-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1864009,28.548541,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kumaon Hostel</name>
+				<styleUrl>#icon-1602-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1858108,28.5490923,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tea Halt</name>
+				<styleUrl>#icon-1602-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.185092,28.5493468,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Indicash ATM</name>
+				<styleUrl>#icon-1510-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1837455,28.5474195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shivalik Hostel</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1859771,28.5475043,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zanskar Hostel Common Room</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1863472,28.5466279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Faculty Guest House</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1835846,28.5454309,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Open Air Theatre Stage</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1852475,28.5450775,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nalanda Hostel</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1832091,28.5456901,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MAIN GATE of IIT Delhi</name>
+				<styleUrl>#icon-1583-FFD600-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1964055,28.5458079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>IIT Gate</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1954882,28.5460247,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bus Stop</name>
+				<styleUrl>#icon-1532-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1957725,28.5459681,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canara Bank ATM</name>
+				<styleUrl>#icon-1510-0F9D58-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1921113,28.5446887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Computer Service Centre</name>
+				<styleUrl>#icon-1113-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1920013,28.5450469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Humanities and Social Sciences Department</name>
+				<description><![CDATA[MS 611, 5th floor, Indian Institute of Technology, Main Building]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>77.1923259,28.5454356,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Office Parking Lower Ground</name>
+				<styleUrl>#icon-1644-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1928194,28.5442234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CPWD Office of Executive Engineering</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1914582,28.5424739,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lecture Hall Complex</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1931292,28.5431961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>IP Inderprastha IIT Delhi</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1937931,28.542977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Textile Department</name>
+				<styleUrl>#icon-1003-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1935476,28.5443989,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Industrial Design and Development Centre</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.192165,28.543844,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>IIT Hospital</name>
+				<styleUrl>#icon-1624-FF5252-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.189873,28.5447901,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>IIT Delhi Main Guest House</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1986103,28.5436921,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>IIT Post Office</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1991736,28.5427025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Community Hall</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1990287,28.5422454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lecture Theatre</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1919557,28.546298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Centre for Atmospheric Sciences</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1906415,28.5468705,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wind Tunnel</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1922374,28.5452224,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fountain</name>
+				<styleUrl>#icon-1580-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1944408,28.5448466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SMITA Research Lab</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1936026,28.5439713,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Biomedical Engineering Centre</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>77.1928972,28.5463216,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1003-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1003-biz-clothing.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1003-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1003-biz-clothing.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1003-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1003-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1003-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1113-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1113-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1113-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1113-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1113-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1510-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1510-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1510-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1510-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1510-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1510-0F9D58-nodesc-normal'>
+			<IconStyle>
+				<color>ff589D0F</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1510-0F9D58-nodesc-highlight'>
+			<IconStyle>
+				<color>ff589D0F</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1510-0F9D58-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1510-0F9D58-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1510-0F9D58-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1526-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1526-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1526-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1526-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1526-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1532-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1532-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1532-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1532-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1532-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1577-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1577-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1577-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1577-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1577-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1580-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1580-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1580-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1580-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1580-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1583-FFD600-nodesc-normal'>
+			<IconStyle>
+				<color>ff00D6FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1583-FFD600-nodesc-highlight'>
+			<IconStyle>
+				<color>ff00D6FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1583-FFD600-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1583-FFD600-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1583-FFD600-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1602-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1602-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1602-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1602-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1602-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1624-FF5252-nodesc-normal'>
+			<IconStyle>
+				<color>ff5252FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1624-FF5252-nodesc-highlight'>
+			<IconStyle>
+				<color>ff5252FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1624-FF5252-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1624-FF5252-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1624-FF5252-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1637-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1637-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1637-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1637-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1637-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1644-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1644-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1644-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1644-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1644-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1756-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1756-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1756-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1756-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1756-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
